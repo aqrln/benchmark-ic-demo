@@ -1,0 +1,9 @@
+{
+  "name": "benchmarks-opt",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "devDependencies": {
+    "benchmark": "^2.1.4"
+  }
+}
