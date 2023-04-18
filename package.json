@@ -5,5 +5,9 @@
   "license": "MIT",
   "devDependencies": {
     "benchmark": "^2.1.4"
+  },
+  "scripts": {
+    "bench-normal": "node bench.js",
+    "bench-no-opt": "node --no-opt bench.js"
   }
 }
